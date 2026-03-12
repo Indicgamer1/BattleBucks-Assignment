@@ -5,6 +5,11 @@
 **Unity Version:** Unity 6
 
 ---
+## 🎥 Gameplay Demo
+
+Watch the gameplay demonstration here:
+
+[Watch on YouTube]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/JrElSp3xnFI))
 
 ## Overview
 
