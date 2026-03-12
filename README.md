@@ -9,7 +9,7 @@
 
 Watch the gameplay demonstration here:
 
-[Watch on YouTube]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/JrElSp3xnFI))
+[![Watch the gameplay demo](https://img.youtube.com/vi/JrElSp3xnFI/0.jpg)](https://youtu.be/JrElSp3xnFI)
 
 ## Overview
 
